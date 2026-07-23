@@ -1,0 +1,21 @@
+{
+  "name": "Neves Finance",
+  "short_name": "Neves",
+  "description": "Controle financeiro pessoal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F7F7",
+  "theme_color": "#0080FF",
+  "orientation": "portrait",
+  "scope": ".",
+  "lang": "pt-BR",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
